@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">AndroidStudioSample</string>
+    <string name="app_name">EclipseSample</string>
 
     <string name="NGApiKey">9f0104bdd9d6c883c5c4b83c4da7ca8ea2f60c387651fea0b1bc1496b96a03ed70b27e711d2a4dee9974a6cc67dffb65</string>
 	<string name="GoogleSenderId">1078376448339</string>
-	<string name="NGVersionType">BAZAAR_YYYYY</string>
+	<string name="NGVersionType">Sample_version</string>
 
     <string name="showInterstitialAd">show Interstitial Ad</string>
     <string name="information">Information:</string>
